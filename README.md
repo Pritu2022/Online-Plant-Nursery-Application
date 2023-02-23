@@ -2,7 +2,10 @@
 # Logo
 
 <div id="header" align="center">
-  <img src="https://github.com/Updesh012/belligerent-glass-5037/blob/main/The_Green_Country/src/main/java/com/masai/images/project_logo.jpeg" width="40%" height = "200px"/>
+  
+  ![image](https://user-images.githubusercontent.com/101568121/220943224-71b76876-bf3f-4c02-8e4f-37a304714c84.png)
+
+  
 </div>
 
 
