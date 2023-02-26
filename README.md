@@ -19,12 +19,18 @@
 
 <h1 align = "center"> ER Diagram </h1>
 <div id="header" align="center">
-  <img src="https://github.com/Updesh012/belligerent-glass-5037/blob/main/The_Green_Country/src/main/java/com/masai/images/ERD%20of%20The_Green_Country.png" width="90%" height = "350px"/>
+
+![image](https://user-images.githubusercontent.com/101568121/221398188-84987a5c-f715-4cc2-9d94-1813145cead1.png)
+
+
 </div>
 
 <h1 align = "center"> Modules </h1>
 <div id="header" align="center">
-  <img src="https://github.com/Updesh012/belligerent-glass-5037/blob/main/The_Green_Country/src/main/java/com/masai/images/Modules.png" width="90%" height = "350px"/>
+ 
+ ![image](https://user-images.githubusercontent.com/101568121/221398303-6a5f63eb-98b8-423b-9c03-d2cd516596ee.png)
+
+ 
 </div>
 
 # Tech-Stack Used
